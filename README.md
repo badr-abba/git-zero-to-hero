@@ -2,7 +2,7 @@
 > **Le standard incontournable pour sécuriser et collaborer sur votre code.**
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/git/git-scm.com/main/app/assets/images/logo/logo.png" alt="Git Logo" width="200"/>
+  <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git Logo" width="150"/>
 </p>
 
 ---
