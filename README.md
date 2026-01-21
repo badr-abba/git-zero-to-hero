@@ -51,8 +51,8 @@ Git est l'outil fondamental pour tout développeur moderne. Ce cours vous emmèn
 ## 🚀 Comment Suivre ce Cours
 Clonez ce dépôt pour accéder aux exercices :
 ```bash
-git clone https://github.com/votre-username/02_Git_Gestion_de_Version.git
-cd 02_Git_Gestion_de_Version
+git clone https://github.com/badr-abba/git-zero-to-hero.git
+cd git-zero-to-hero
 ```
 
 ## 🤝 Contribuer
